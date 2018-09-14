@@ -1,0 +1,9 @@
+{
+  "description": "webhint artwork (a.k.a. Nellie's photobook)",
+  "homepage": "https://webhint.io",
+  "license": "CC-BY-SA-4.0",
+  "name": "@hint/artwork",
+  "private": true,
+  "repository": "webhintio/artwork",
+  "version": "1.0.0"
+}
