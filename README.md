@@ -10,7 +10,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/logo"><img width=250 src="src/logo/logo.svg" alt="logo"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/logo"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/logo/logo.svg?sanitize=true" alt="logo"></a></td>
         </tr>
     </tbody>
 </table>
@@ -22,7 +22,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/nellie/confused"><img width=250 src="src/nellie/confused/confused.svg" alt="Nellie confused"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/confused"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/confused/confused.svg?sanitize=true" alt="Nellie confused"></a></td>
         </tr>
     </tbody>
 </table>
@@ -32,7 +32,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/nellie/developing"><img width=250 src="src/nellie/developing/developing.svg" alt="Nellie developing"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/developing"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/developing/developing.svg?sanitize=true" alt="Nellie developing"></a></td>
         </tr>
     </tbody>
 </table>
@@ -42,8 +42,8 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/nellie/octocat"><img width=250 src="src/nellie/octocat/octocat_1.svg" alt="Nellie with Octocat"></a></td>
-            <td><a href="src/nellie/octocat"><img width=250 src="src/nellie/octocat/octocat_2.svg" alt="Nellie with Octocat"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/octocat"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/octocat/octocat_1.svg?sanitize=true" alt="Nellie with Octocat"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/octocat"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/octocat/octocat_2.svg?sanitize=true" alt="Nellie with Octocat"></a></td>
         </tr>
     </tbody>
 </table>
@@ -53,7 +53,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/nellie/searching"><img width=250 src="src/nellie/searching/searching.svg" alt="Nellie searching"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/searching"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/searching/searching.svg?sanitize=true" alt="Nellie searching"></a></td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +63,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/nellie/sunglasses"><img width=250 src="src/nellie/sunglasses/sunglasses.svg" alt="Nellie with sunglasses"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/sunglasses"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/sunglasses/sunglasses.svg?sanitize=true" alt="Nellie with sunglasses"></a></td>
         </tr>
     </tbody>
 </table>
@@ -73,7 +73,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/nellie/swimming"><img width=250 src="src/nellie/swimming/swimming.svg" alt="Nellie swimming"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/swimming"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/swimming/swimming.svg?sanitize=true" alt="Nellie swimming"></a></td>
         </tr>
     </tbody>
 </table>
@@ -85,7 +85,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/city/brighton"><img width=250 src="src/city/brighton/brighton.svg" alt="Nellie in Brighton"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/city/brighton"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/city/brighton/brighton.svg?sanitize=true" alt="Nellie in Brighton"></a></td>
         </tr>
     </tbody>
 </table>
@@ -95,7 +95,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/city/new-york"><img width=250 src="src/city/new-york/new-york.svg" alt="Nellie in New York"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/city/new-york"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/city/new-york/new-york.svg?sanitize=true" alt="Nellie in New York"></a></td>
         </tr>
     </tbody>
 </table>
@@ -105,7 +105,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/city/orlando"><img width=250 src="src/city/orlando/orlando.svg" alt="Nellie in Orlando"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/city/orlando"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/city/orlando/orlando.svg?sanitize=true" alt="Nellie in Orlando"></a></td>
         </tr>
     </tbody>
 </table>
@@ -115,7 +115,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/city/san-francisco"><img width=250 src="src/city/san-francisco/san-francisco.svg" alt="Nellie in San Francisco"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/city/san-francisco"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/city/san-francisco/san-francisco.svg?sanitize=true" alt="Nellie in San Francisco"></a></td>
         </tr>
     </tbody>
 </table>
@@ -125,7 +125,7 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="src/city/seattle"><img width=250 src="src/city/seattle/seattle.svg" alt="Nellie in Seattle"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/city/seattle"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/city/seattle/seattle.svg?sanitize=true" alt="Nellie in Seattle"></a></td>
         </tr>
     </tbody>
 </table>
