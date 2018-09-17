@@ -78,6 +78,16 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
     </tbody>
 </table>
 
+### Nellie working
+
+<table>
+    <tbody>
+        <tr height=250>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/working"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/working/working.svg?sanitize=true" alt="Nellie working"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Cities
 
 ### Brighton
