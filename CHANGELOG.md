@@ -1,3 +1,14 @@
+# 1.1.0 (September 17, 2018)
+
+## Bug fixes / Improvements
+
+* [[`1c4ac5edb12`](https://github.com/webhintio/artwork/commit/1c4ac5edb12f61b72168a289c2079301b2b471e0)] - Fix: Further losslessly optimize `working.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`6c65e295e27`](https://github.com/webhintio/artwork/commit/6c65e295e27b8fa6969225ebf381c2b3e1ee5442)] - New: Add illustration of Nellie working (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 1.0.1 (September 17, 2018)
 
 ## Bug fixes / Improvements
