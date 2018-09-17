@@ -1,9 +1,21 @@
 {
-  "description": "webhint artwork (a.k.a. Nellie's photobook)",
+  "description": "Artworks used by the webhint project",
+  "files": [
+    "src"
+  ],
   "homepage": "https://webhint.io",
+  "keywords": [
+    "artwork",
+    "hint",
+    "illustrations",
+    "logos",
+    "narwhal",
+    "nellie",
+    "nellie-the-narwhal",
+    "webhint"
+  ],
   "license": "CC-BY-SA-4.0",
   "name": "@hint/artwork",
-  "private": true,
   "repository": "webhintio/artwork",
   "version": "1.0.0"
 }

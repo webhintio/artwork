@@ -1,6 +1,6 @@
 # Nellie's Photo Album
 
-Collection of artworks used by the [`webhint`][webhint site] project.
+Artworks used by the [`webhint`][webhint site] project.
 
 Nellie was originally created by [Stephanie Drescher][stephanie
 drescher]. Artworks are by [Mike Bonales][mike bonales].
