@@ -90,6 +90,16 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
 
 ## Cities
 
+### Berlin
+
+<table>
+    <tbody>
+        <tr height=250>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/city/berlin"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/city/berlin/berlin.svg?sanitize=true" alt="Nellie in Berlin"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Brighton
 
 <table>
