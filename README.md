@@ -100,6 +100,17 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
     </tbody>
 </table>
 
+### London
+
+<table>
+    <tbody>
+        <tr height=250>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/city/london"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/city/london/london.svg?sanitize=true" alt="Nellie in London"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+
 ### New York
 
 <table>
