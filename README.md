@@ -68,12 +68,13 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
     </tbody>
 </table>
 
-### Nellie swimming
+### Nellie underwater
 
 <table>
     <tbody>
         <tr height=250>
-            <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/swimming"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/swimming/swimming.svg?sanitize=true" alt="Nellie swimming"></a></td>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/underwater"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/underwater/underwater_1.svg?sanitize=true" alt="Nellie underwater"></a></td>
+             <td><a href="https://github.com/webhintio/artwork/tree/master/src/nellie/underwater"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/nellie/underwater/underwater_2.svg?sanitize=true" alt="Nellie underwater"></a></td>
         </tr>
     </tbody>
 </table>
