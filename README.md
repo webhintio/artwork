@@ -68,6 +68,16 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
     </tbody>
 </table>
 
+### Paris
+
+<table>
+    <tbody>
+        <tr height=250>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/places/paris"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/places/paris/paris.svg?sanitize=true" alt="Nellie in Paris"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### San Francisco
 
 <table>
