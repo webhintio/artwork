@@ -1,3 +1,14 @@
+# 2.1.0 (September 26, 2018)
+
+## Bug fixes / Improvements
+
+* [[`d959ab38c9`](https://github.com/webhintio/artwork/commit/d959ab38c9fa461b7115afc5247035a56d84d611)] - Fix: Further losslessly optimize `paris.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`16c0ce137e`](https://github.com/webhintio/artwork/commit/16c0ce137e3c22c0e7ecedbe44c95629c490f129)] - New: Add illustration of Nellie in Paris (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.0.0 (September 23, 2018)
 
 ## Breaking changes
