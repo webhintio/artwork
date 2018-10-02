@@ -98,6 +98,16 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
     </tbody>
 </table>
 
+### Toronto
+
+<table>
+    <tbody>
+        <tr height=250>
+            <td><a href="https://github.com/webhintio/artwork/tree/master/src/places/toronto"><img width=250 src="https://raw.githubusercontent.com/webhintio/artwork/master/src/places/toronto/toronto.svg?sanitize=true" alt="Nellie in Toronto"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Other
 
 ### Nellie confused
