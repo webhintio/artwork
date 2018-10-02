@@ -1,3 +1,14 @@
+# 2.2.0 (October 2, 2018)
+
+## Bug fixes / Improvements
+
+* [[`3aefbefe90`](https://github.com/webhintio/artwork/commit/3aefbefe90102c62356a86568bc5f2015521bf67)] - Fix: Further losslessly optimize `toronto.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+## New features
+
+* [[`6a35041f63`](https://github.com/webhintio/artwork/commit/6a35041f630f70b56b324f739abdc96f71f010d9)] - New: Add illustration of Nellie in Toronto (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.1.0 (September 26, 2018)
 
 ## Bug fixes / Improvements
