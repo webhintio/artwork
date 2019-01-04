@@ -1,3 +1,11 @@
+# 2.2.1 (January 4, 2019)
+
+## Bug fixes / Improvements
+
+* [[`cf598ab590`](https://github.com/webhintio/artwork/commit/cf598ab590efdaa75044ff8d5feb9f5a9f174337)] - Fix: Further losslessly optimize `new-york.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+* [[`6c68a69043`](https://github.com/webhintio/artwork/commit/6c68a69043d025b0128545ad8a4e2fa480781444)] - Fix: Further losslessly optimize `logo.svg` (by [`Cătălin Mariș`](https://github.com/alrra)).
+
+
 # 2.2.0 (October 2, 2018)
 
 ## Bug fixes / Improvements
