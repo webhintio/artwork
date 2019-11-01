@@ -182,15 +182,21 @@ drescher]. Artworks are by [Mike Bonales][mike bonales].
     </tbody>
 </table>
 
+## Code of Conduct
+
+All projects in the `webhintio` organization follow this [CoC][coc]
+which adheres to the [OpenJS Foundation Code of Conduct][ojs coc].
+
 ## License
 
 The artworks are available under the [Creative Commons Attribution 4.0
 International license][license].
 
-
 <!-- Link labels: -->
 
+[coc]: https://github.com/webhintio/.github/blob/master/CODE_OF_CONDUCT
 [license]: LICENSE.txt
 [mike bonales]: http://www.mikebonales.com/
+[ojs coc]: https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md
 [stephanie drescher]: http://stephaniestimac.com/
 [webhint site]: https://webhint.io/
