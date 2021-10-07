@@ -2,8 +2,8 @@
 
 Artworks used by the [`webhint`][webhint site] project.
 
-Nellie was originally created by [Stephanie Drescher][stephanie
-drescher]. Artworks are by [Mike Bonales][mike bonales].
+Nellie was originally created by [Stephanie Stimac][stephanie
+stimac]. Artworks are by [Mike Bonales][mike bonales].
 
 ## Logos
 
