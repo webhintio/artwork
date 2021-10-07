@@ -198,5 +198,5 @@ International license][license].
 [license]: LICENSE.txt
 [mike bonales]: http://www.mikebonales.com/
 [ojs coc]: https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md
-[stephanie drescher]: http://stephaniestimac.com/
+[stephanie stimac]: http://stephaniestimac.com/
 [webhint site]: https://webhint.io/
